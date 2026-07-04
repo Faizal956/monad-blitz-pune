@@ -142,6 +142,6 @@ This transforms an AI assistant into a trusted digital campus companion.
 
 Built for **Monad Hackathon** ❤️
 
-Developed by **Faizal Shaikh**
+Developed by Team
 
 DY Patil International University
